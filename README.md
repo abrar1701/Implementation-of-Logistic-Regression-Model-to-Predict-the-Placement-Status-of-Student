@@ -68,9 +68,8 @@ print(class_report)
 ```
 
 ## Output:
-![the Logistic Regression Model to Predict the Placement Status of Student](sam.png)
-
+![Screenshot 2024-09-25 091213](https://github.com/user-attachments/assets/40bb3de2-4718-434a-bb9c-324115071c7a)
 
 ## Result:
-![Screenshot 2024-09-25 091213](https://github.com/user-attachments/assets/40bb3de2-4718-434a-bb9c-324115071c7a)
+
 Thus the program to implement the the Logistic Regression Model to Predict the Placement Status of Student is written and verified using python programming.
